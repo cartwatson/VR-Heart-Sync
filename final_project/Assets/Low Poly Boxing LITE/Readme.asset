@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 317b6b519527cb14dace90b8c5f9690a, type: 3} 
+  title: 'Juanktigre Assets '
+  sections:
+  - heading: Hello!!
+    text: 
+    linkText: 
+    url:
+  - heading: Before start 
+    text: Please Download 
+    linkText: Post Processing Stack
+    url: content/83912
+  - heading: 
+    text: Hope you are enjoying this asset and having fun, check out our other great assets:.
+    linkText: 
+    url:
+  - heading: Low Poly Boxing Complete Pack
+    text: 
+    linkText: Low Poly Boxing
+    url: content/99366
+  - heading: Brick Town Complete Pack
+    text:
+    linkText: Brick Town
+    url: content/64397
+  - heading: Fort Building
+    text: 
+    linkText: Fort Building
+    url: content/130058
+  - heading: 
+    text: 'This package requires Unity 5.3.0 or higher.Tested in Unity 2017.40f1.If
+      you have any question about how it works or if you are experiencing any trouble,
+      feel free to email me at:'
+    linkText: juanktigreassets@gmail.com
+    url: juanktigreassets@gmail.com
+  loadedLayout: 1
