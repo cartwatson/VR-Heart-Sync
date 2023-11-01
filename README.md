@@ -11,6 +11,7 @@ VR Heart Sync is a virtual reality application that enhances immersion by levera
   - [Getting Started](#getting-started)
   - [Usage](#usage)
   - [License](#license)
+  - [Contributors](#contributors)
 
 ## Demo Video
 
@@ -45,6 +46,15 @@ Once the application is up and running, you can use VR Heart Sync to explore its
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 Certain assets included in this project, such as 3D models, textures, and audio files, may be sourced from the Unity Asset Store and are subject to their respective licenses. Please review the individual asset licenses within the project's asset folders for more information on their usage terms.  
+
+## Contributors
+
+| Name | Github | LinkedIn |  
+|---|---|  
+| Carter Watson | [Github](https://www.github.com/cartwatson) | [LinkedIn](https://www.linkedin.com/in/cartwatson)               |  
+| Kyle McMullin | [Github](https://github.com/KyleMcMullin)   | [LinkedIn](https://www.linkedin.com/in/kyle-j-mcmullin/)         |  
+| Brad Jensen   | [Github](https://github.com/kingbaard)      | [LinkedIn](https://www.linkedin.com/in/bradley-rod-jensen/)      |  
+| Jason Jackson | [Github](https://github.com/jason-jackson6) | [LinkedIn](https://www.linkedin.com/in/jason-jackson-52b2b31bb/) |  
 
 ---
 
