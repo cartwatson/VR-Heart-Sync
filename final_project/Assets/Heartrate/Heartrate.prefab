@@ -45,5 +45,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   InitialHeartrate: 80
-  API_Key: efed7e1b-4293-4900-8036-c8ac90d06a88
+  API_Key: 0
   _NormalizedHeartRate: 0
