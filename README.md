@@ -50,7 +50,7 @@ Certain assets included in this project, such as 3D models, textures, and audio 
 ## Contributors
 
 | Name | Github | LinkedIn |  
-|---|---|  
+|---|---|---|  
 | Carter Watson | [Github](https://www.github.com/cartwatson) | [LinkedIn](https://www.linkedin.com/in/cartwatson)               |  
 | Kyle McMullin | [Github](https://github.com/KyleMcMullin)   | [LinkedIn](https://www.linkedin.com/in/kyle-j-mcmullin/)         |  
 | Brad Jensen   | [Github](https://github.com/kingbaard)      | [LinkedIn](https://www.linkedin.com/in/bradley-rod-jensen/)      |  
