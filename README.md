@@ -15,7 +15,7 @@ VR Heart Sync is a virtual reality application that enhances immersion by levera
 
 ## Demo Video
 
-[Video](https://www.youtube.com/watch?v=bHUiBgJ7CCI)
+[![Demo Video](https://img.youtube.com/vi/bHUiBgJ7CCI/maxresdefault.jpg)](https://www.youtube.com/watch?v=bHUiBgJ7CCI)
 
 ## Introduction
 
